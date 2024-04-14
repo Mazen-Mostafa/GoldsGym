@@ -8,7 +8,7 @@ const HeroBanner = () => {
         Sweat, Smile <br /> and Repeat
       </p>
       <p className=" text-[22px] leading-[65px] mb-5">
-        Check out the most effective exercises
+        Check out the most effective exercises!
       </p>
       <button
         className=" text-[#fff] transition-all px-6 py-4 rounded-[10px] 
